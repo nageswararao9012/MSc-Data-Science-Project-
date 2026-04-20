@@ -46,7 +46,7 @@ Models used: **LSTM, GRU, Tuned LSTM, Transformer**.
 Go to 👉 https://colab.research.google.com/
 
 ### Step 2: Install Required Libraries
-```python
+python
 !pip install yfinance pandas numpy matplotlib seaborn scikit-learn tensorflow
 
 ### Step 3: Upload Notebook / Code
@@ -57,7 +57,7 @@ Go to 👉 https://colab.research.google.com/
 - Wait for the models to train  
 
 ### Step 5: Output
-After execution, you will get:
+After execution Outputs are:
 - Model training logs  
 - Evaluation metrics (RMSE, MAE, R², MAPE)  
 - Forecast plots (3 months & 1 year)  
